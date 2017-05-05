@@ -1,2 +1,2 @@
 # pwm
-use timer to generate pwm
+use a timer to generate pwm
