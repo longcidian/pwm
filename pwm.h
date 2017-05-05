@@ -14,6 +14,7 @@ typedef struct{
 
 
 void pwm_init(void);
+void pwm_addChannel(pwm_channel_t *pChannel);
 void pwm_changeDuty(pwm_channel_t *pChannel, u8 duty);
 
 
